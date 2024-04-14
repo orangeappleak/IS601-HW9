@@ -2,11 +2,12 @@
 
 ## Github actions
 
-![alt text](./image-update1.png)
+![alt text](./image-updated.png)
 
 ## Docker image
+![alt text](./image-update1.png)
 
-![alt text](./image-updated.png)
+
 
 ![alt text](image.png)
 
