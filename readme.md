@@ -13,8 +13,6 @@
 
 ![alt text](image-1.png)
 
-https://hub.docker.com/repository/docker/karthikysvk/qr_code_fastapi/general
-
 ## Test making, retrieving, and deleting QR codes on the spec page.
 
 ![alt text](image-2.png)
