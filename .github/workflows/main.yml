@@ -63,7 +63,7 @@ jobs:
           push: true
           tags: redmangoapple/homework9:${{ github.sha }}
           platforms: linux/amd64,linux/arm64 # Multi-platform support
-          cache-from: type=registry,ref=nidhish1312/homework9:cache
+          cache-from: type=registry,ref=redmangoapple/homework9:cache
           cache-to: type=inline,mode=max
 
       - name: Scan the Docker image
